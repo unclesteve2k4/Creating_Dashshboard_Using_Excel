@@ -8,6 +8,7 @@ The goal is straightforward – making the data cleaner for accurate analysis.
 This effort is crucial to ensure that the dataset serves as a reliable foundation for decision-making, aligning with our commitment to delivering precise and dependable insights at Alpha & Beta Business Venture.
 
 AIM OF THE PROJECT
+
 Clean the data and make it usable for further analysis 
 •Calculate the overall revenue, cost, and profit 
 •Determine the average revenue, average cost, and average profit
